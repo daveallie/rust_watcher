@@ -1,5 +1,7 @@
 # Rust Watcher
 
+[![Build Status](https://travis-ci.org/daveallie/rust_watcher.svg?branch=master)](https://travis-ci.org/daveallie/rust_watcher)
+
 ## Installation
 
 Add this line to your application's Gemfile:
